@@ -1,0 +1,17 @@
+{
+  "name": "firebasedebugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.6.1",
+    "firebase-admin": "^9.8.0",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
