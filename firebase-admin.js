@@ -5,7 +5,7 @@ let fs = require('fs');
 // Connecting to emulator: FIREBASE_STORAGE_EMULATOR_HOST=localhost:9199 node firebase-admin.js
 
 admin.initializeApp({
-    projectId: 'fir-authexample-eda73',
+    projectId: 'test-project',
     storageBucket: 'default-bucket'
 });
 
